@@ -2,6 +2,7 @@ QuickBooks PHP DevKit
 =====================
 
 QuickBooks integration support for PHP 5.x+
+THIS IS A FORKED VERSION CREATED FOR PHP 8 SUPPORT
 
 The package you've downloaded contains code and documentation for connecting various versions and editions of QuickBooks to PHP, allowing your PHP applications to do fancy things like:
 
@@ -86,8 +87,6 @@ There is additional documentation and additional examples on our legacy and new 
 - http://www.consolibyte.com/docs/index.php/QuickBooks     (new wiki)
 
 
-
-
 -------------------------------------
 ###Keith Palmer###
-- Follow me on Twitter for updates: https://twitter.com/keith_palmer_jr
+- Follow the creator on Twitter for updates: https://twitter.com/keith_palmer_jr
